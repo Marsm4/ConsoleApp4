@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treugolnic", "ConsoleApp4\Treugolnic.csproj", "{5220A163-7641-4B1F-81B1-BBCB6CB14170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samoe bolshoe hislo, kratnoe 7", "Samoe bolshoe hislo, kratnoe 7\Samoe bolshoe hislo, kratnoe 7.csproj", "{AFFFEF3B-E6A8-473D-AAB4-5B47F0422365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glasnaia Bukva", "Glasnaia Bukva\Glasnaia Bukva.csproj", "{1352696C-D173-4A69-ABBD-3BB25AB409B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razlihnae elemet", "Razlihnae elemet\Razlihnae elemet.csproj", "{1CC29FC4-9AD0-4693-9137-C23263E73AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sravnenie summ cifr", "sravnenie summ cifr\sravnenie summ cifr.csproj", "{C0AF5030-FF9D-450A-A708-B64DB81B8CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parta", "parta\parta.csproj", "{9C313787-EA21-42DB-BBC9-C44BC6AC42F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEWYESRS", "NEWYESRS\NEWYESRS.csproj", "{0107C273-B068-45EB-9FBC-CD41616D1008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5220A163-7641-4B1F-81B1-BBCB6CB14170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5220A163-7641-4B1F-81B1-BBCB6CB14170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5220A163-7641-4B1F-81B1-BBCB6CB14170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5220A163-7641-4B1F-81B1-BBCB6CB14170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFFFEF3B-E6A8-473D-AAB4-5B47F0422365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFFEF3B-E6A8-473D-AAB4-5B47F0422365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFFEF3B-E6A8-473D-AAB4-5B47F0422365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFFEF3B-E6A8-473D-AAB4-5B47F0422365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1352696C-D173-4A69-ABBD-3BB25AB409B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1352696C-D173-4A69-ABBD-3BB25AB409B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1352696C-D173-4A69-ABBD-3BB25AB409B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1352696C-D173-4A69-ABBD-3BB25AB409B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CC29FC4-9AD0-4693-9137-C23263E73AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC29FC4-9AD0-4693-9137-C23263E73AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC29FC4-9AD0-4693-9137-C23263E73AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC29FC4-9AD0-4693-9137-C23263E73AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0AF5030-FF9D-450A-A708-B64DB81B8CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0AF5030-FF9D-450A-A708-B64DB81B8CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0AF5030-FF9D-450A-A708-B64DB81B8CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0AF5030-FF9D-450A-A708-B64DB81B8CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C313787-EA21-42DB-BBC9-C44BC6AC42F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C313787-EA21-42DB-BBC9-C44BC6AC42F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C313787-EA21-42DB-BBC9-C44BC6AC42F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C313787-EA21-42DB-BBC9-C44BC6AC42F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0107C273-B068-45EB-9FBC-CD41616D1008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0107C273-B068-45EB-9FBC-CD41616D1008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0107C273-B068-45EB-9FBC-CD41616D1008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0107C273-B068-45EB-9FBC-CD41616D1008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5A012A5-319A-41C9-8029-1596A69568C3}
+	EndGlobalSection
+EndGlobal
